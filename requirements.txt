@@ -1,0 +1,10 @@
+matplotlib
+matplotlib-inline
+numpy
+keras 
+tensorflow
+tensorflow-intel
+scikit-learn
+seaborn
+scipy
+
